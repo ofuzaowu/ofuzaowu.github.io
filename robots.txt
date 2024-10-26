@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofuzaowu.github.io/sitemap_index.ofuzaowu
